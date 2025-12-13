@@ -1,0 +1,8 @@
+{
+  "name": "Chase & Stealth Labels",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "background_url": "/index.html",
+  "icon": "/icon.svg",
+  "permissions": ["SCENE"]
+}
